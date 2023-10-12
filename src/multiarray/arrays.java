@@ -48,18 +48,6 @@ public class arrays {
 			System.out.println(rollNo[i]+ "\t" + studName[i] +"\t" + studData[i][0] +"\t" + studData[i][1]+"\t" +studData[i][2] +"\t" + total[i] +"\t" + result[i] +"\t" + average[i] +"\t" + grade[i]);
 		}
 		
-      
-
-	
-
-
-													 
-	 
-	
-		 
-	
-	
-	
 	scanner.close();
 	}
 	}
