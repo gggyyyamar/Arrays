@@ -28,6 +28,7 @@ public class arrays {
 			total[i]+=studData[i][j];
 			average[i]=total[i]/3;
 			if (average[i]>50) {result[i]="p";}
+			else{result[i]="F";}
             if (average[i]>70) {grade[i]="A";}
             else if (average[i]>50) {grade[i]="B";}
             else if (average[i]<50) {grade[i]="c";}
